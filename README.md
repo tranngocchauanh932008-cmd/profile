@@ -73,7 +73,6 @@ ul{padding-left:22px;}
 <div class="container">
 
 <div class="header">
-<img src="https://lens.usercontent.google.com/image?vsrid=CIKIvf3_nNT5ogEQAhgBIiQ5YTAxYzRlNy1mYjhmLTRlZjEtYTg1OS1lYTI0MWI0OGMzNDEyBiICc2QoQjj0pLz43ueRAw&gsessionid=EjSauFOoaiK10a0VROOa9xaBRYqbaNzBRf7oGjKHK14Hikn7jMECyw">
 <h1>Xin chào! Mình là học sinh lớp 12B3</h1>
 <p>Trường THPT Hòn Gai – Hạ Long</p>
 </div>
